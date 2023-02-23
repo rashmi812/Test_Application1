@@ -1,8 +1,7 @@
 # onlinetestapplication
 his project was generated with Angular CLI version 13.0.1.
 
-# Demo URL
-https://mdazaz.github.io/it-quiz/
+
 
 # Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
